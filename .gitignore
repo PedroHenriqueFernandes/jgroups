@@ -1,0 +1,9 @@
+build
+/.gradle
+
+!.idea
+.idea/*
+!.idea/runConfigurations
+
+.DS_Store
+.java-version
